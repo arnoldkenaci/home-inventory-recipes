@@ -1,0 +1,10 @@
+{
+  "name": "home-inventory-recipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "react-native": "latest",
+    "expo": "latest",
+    "axios": "latest"
+  }
+}
